@@ -1,1 +1,5 @@
-console.log("b.ts");
+class B {
+  constructor() {
+    console.log("B");
+  }
+}
